@@ -1,0 +1,42 @@
+.register{
+  /* margin: 0;
+  padding:0; */
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-sizing: border-box;
+  background-image: url("./images/register.jpg");
+  height: 100vh;
+}
+.login-box{
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-sizing: border-box;
+  background-image: url("./images/subscribe.jpg");
+  height: 100vh;
+}
+.home{
+  /* margin: 0;
+  padding:0; */
+  box-sizing: border-box;
+  background-image:lightblue(rgbs(0,0,0,0.7),url("./images/shopping-g35c66d310_1920.jpg")) ;
+  height: 90vh;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+
+}
+.home-text{
+  margin-top: 100px;
+} 
